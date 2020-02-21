@@ -1,0 +1,10 @@
+C:\Users\Tom\source\repos\GoldBadgeAppChallenges\02-Claims\bin\Debug\02-Claims.exe.config
+C:\Users\Tom\source\repos\GoldBadgeAppChallenges\02-Claims\bin\Debug\02-Claims.exe
+C:\Users\Tom\source\repos\GoldBadgeAppChallenges\02-Claims\bin\Debug\02-Claims.pdb
+C:\Users\Tom\source\repos\GoldBadgeAppChallenges\02-Claims\bin\Debug\GoldBadgeAppChallenge.exe
+C:\Users\Tom\source\repos\GoldBadgeAppChallenges\02-Claims\bin\Debug\GoldBadgeAppChallenge.pdb
+C:\Users\Tom\source\repos\GoldBadgeAppChallenges\02-Claims\bin\Debug\GoldBadgeAppChallenge.exe.config
+C:\Users\Tom\source\repos\GoldBadgeAppChallenges\02-Claims\obj\Debug\02-Claims.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\GoldBadgeAppChallenges\02-Claims\obj\Debug\02-Claims.csproj.CopyComplete
+C:\Users\Tom\source\repos\GoldBadgeAppChallenges\02-Claims\obj\Debug\02-Claims.exe
+C:\Users\Tom\source\repos\GoldBadgeAppChallenges\02-Claims\obj\Debug\02-Claims.pdb

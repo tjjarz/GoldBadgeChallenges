@@ -1,0 +1,10 @@
+C:\Users\Tom\source\repos\GoldBadgeAppChallenges\03-Badges\bin\Debug\03-Badges.exe.config
+C:\Users\Tom\source\repos\GoldBadgeAppChallenges\03-Badges\bin\Debug\03-Badges.exe
+C:\Users\Tom\source\repos\GoldBadgeAppChallenges\03-Badges\bin\Debug\03-Badges.pdb
+C:\Users\Tom\source\repos\GoldBadgeAppChallenges\03-Badges\bin\Debug\GoldBadgeAppChallenge.exe
+C:\Users\Tom\source\repos\GoldBadgeAppChallenges\03-Badges\bin\Debug\GoldBadgeAppChallenge.pdb
+C:\Users\Tom\source\repos\GoldBadgeAppChallenges\03-Badges\bin\Debug\GoldBadgeAppChallenge.exe.config
+C:\Users\Tom\source\repos\GoldBadgeAppChallenges\03-Badges\obj\Debug\03-Badges.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\GoldBadgeAppChallenges\03-Badges\obj\Debug\03-Badges.csproj.CopyComplete
+C:\Users\Tom\source\repos\GoldBadgeAppChallenges\03-Badges\obj\Debug\03-Badges.exe
+C:\Users\Tom\source\repos\GoldBadgeAppChallenges\03-Badges\obj\Debug\03-Badges.pdb
